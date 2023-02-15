@@ -1,0 +1,10 @@
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/synopsys_code_sight_state.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/algorithm/target/classes/org/example/array/PivotIndex.class
+/algorithm/target/classes/org/example/Main.class
