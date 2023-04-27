@@ -11,6 +11,10 @@ public class MapTest {
         List<String> list = new ArrayList<>();
         list.add("1");
         map.put("a", list);
+        map.put("b", null);
+        map.forEach((k,v)->{
+            System.out.println(k+","+v);
+        });
         List<String> list1 = new ArrayList<>();
         list1.add("2");
         Map<String, List<String>> map1 = new HashMap<>();
