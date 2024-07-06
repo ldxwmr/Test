@@ -1,7 +1,5 @@
 package org.example.array;
 
-import java.rmi.MarshalException;
-
 import static org.example.array.Util.printArray;
 
 /**

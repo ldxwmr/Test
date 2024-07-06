@@ -15,6 +15,7 @@
         <module>regex</module>
         <module>basics</module>
         <module>other</module>
+        <module>jni</module>
     </modules>
 
     <properties>
@@ -24,6 +25,14 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.1</version>
+            <scope>compile</scope>
+        </dependency>
+
+
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
